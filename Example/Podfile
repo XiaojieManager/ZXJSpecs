@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZXJSpecs_Example' do
+  pod 'ZXJSpecs', :path => '../'
+
+  target 'ZXJSpecs_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
