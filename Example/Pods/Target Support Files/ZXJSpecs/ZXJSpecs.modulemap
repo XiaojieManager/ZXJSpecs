@@ -1,0 +1,6 @@
+framework module ZXJSpecs {
+  umbrella header "ZXJSpecs-umbrella.h"
+
+  export *
+  module * { export * }
+}

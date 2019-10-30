@@ -1,0 +1,22 @@
+{
+  "name": "ZXJSpecs",
+  "version": "0.1.0",
+  "summary": "A short description of ZXJSpecs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaojie zhao/ZXJSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaojie zhao": "niantoupi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaojie zhao/ZXJSpecs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZXJSpecs/Classes/**/*"
+}
