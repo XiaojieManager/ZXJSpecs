@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/xiaojie zhao/ZXJSpecs'
+  s.homepage         = 'https://github.com/XiaojieManager/ZXJSpecs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xiaojie zhao' => 'niantoupi@gmail.com' }
-  s.source           = { :git => 'https://github.com/xiaojie zhao/ZXJSpecs.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XiaojieManager/ZXJSpecs.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
