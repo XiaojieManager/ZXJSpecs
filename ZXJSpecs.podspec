@@ -29,7 +29,6 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-  s.swift-version = '4.0'
   s.source_files = 'ZXJSpecs/Classes/**/*'
   
   # s.resource_bundles = {
