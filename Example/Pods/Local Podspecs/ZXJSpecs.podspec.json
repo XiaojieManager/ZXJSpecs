@@ -1,9 +1,9 @@
 {
   "name": "ZXJSpecs",
   "version": "0.1.0",
-  "summary": "A short description of ZXJSpecs.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/xiaojie zhao/ZXJSpecs",
+  "summary": "ZXJSpecs.",
+  "description": "TODO: Add long description of the pod here.\n锻炼一下Specs",
+  "homepage": "https://github.com/XiaojieManager/ZXJSpecs",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "xiaojie zhao": "niantoupi@gmail.com"
   },
   "source": {
-    "git": "https://github.com/xiaojie zhao/ZXJSpecs.git",
+    "git": "https://github.com/XiaojieManager/ZXJSpecs.git",
     "tag": "0.1.0"
   },
   "platforms": {
